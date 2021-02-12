@@ -1,0 +1,6 @@
+## jw.org
+Fr : 
+https://www.jw.org/fr/biblioth%C3%A8que/bible/bi12/livres/
+
+Mos : 
+https://www.jw.org/mos/d-s%E1%BA%BDn-yiisi/biible/bi12/S%C9%9Bb/
