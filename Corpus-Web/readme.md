@@ -9,3 +9,7 @@ https://www.webonary.org/moore/browse/browse-vernacular-english/?letter=-&key=mo
 https://ongafed.wordpress.com/parlez-le-moore/
 
 
+### press raamde :
+http://raamde-bf.com/
+
+
