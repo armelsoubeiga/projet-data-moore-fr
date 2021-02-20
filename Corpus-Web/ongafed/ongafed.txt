@@ -1,0 +1,118 @@
+FRANÇAIS,MOORE
+Bonjour,Nei beogo
+Bonsoir,Nei Zaabré
+ça va ?,Kibaré
+ça va (Formule politesse),Laafi
+ça va (id),Laafi bala
+Et la santé?(id),Laafi beemé
+Et ta famille? Ta cour?,Zakaramba
+Et les enfants?,Kamba kiemame
+A demain,Beogo
+Que dieu nous accorde demain,Wend a conde beogo
+A plus tard/ a bientôt,Bilfou
+Un peu,Bilibilifou / Bilfou
+Vite vite,Tôtô
+S’il te plait excuse moi,Gaafara
+Pardon,Mane sougouri
+Merci,Barka
+Merci beaucoup,Barka woussogo
+beaucoup,Woussogo
+l’argent,Liguidi
+moi,Mam
+toi,Fo
+il/lui/elle,yenda
+nous,toundo
+Vous avez préparé quoi à mangé?,yamba
+Ils/elles/eux,Bamba
+j’ai faim,Koman tar mam
+j’ai soif,Konioudou tar mam
+Ami,Zoa
+Amitié,Zoodo
+Boire,Niou
+Mari,Sida
+Femme,Para
+je peux t’aider?,Mam thuin songa fo?
+pouvoir,Thuin
+Aider,Songa
+Oui,Nien
+Non,Ayo
+Qu’est ce qu’on va faire?,Idna mana wana
+Qu’est ce que je vais faire?,Na mana wana
+Je m’en vais,Mlodame
+Enfant,Biga
+Un vieux,Ninkiema
+Une vieille,Pouryanga
+Papa,Baaba
+Maman,Mma
+c’est combien,Ya Wana
+c’est bien,Ya soma
+ce n’est pas bien,Ka soma ye
+Le feu,Bougoum
+Ou vas tu?,Fo rigda ye
+Viens ici,Wa ka
+je veux de l’eau,M’data kom
+Eau,Kom
+il y a quoi?,ya boin
+y a pas de problème,Yel ka bé /Yel ka yé
+Merci/y a pas de quoi,Barka/Kassek bark yé
+c’est cher /c’est difficile,Ya toogo
+c’est pas cher /c’est facile,Ya nana
+c’est bon,Ya noogo
+je ne sais pas,Mam ka mi yé
+je sais,Mi mé
+on y va,Idlore
+je suis fatigué,Myeme
+J’ai mal,Zabdame
+le ventre,Pourra
+le dos,Poore
+la tête,Zougouo
+la lune,Kiougou
+c’est vrai,Ya sida
+ce n’est pas vrai,Ka sida ye
+c’est comme ca,Ya Otto
+Le chef,Naaba
+J’ai besoin/ je veux,M’datam
+"si il n y a pas de problème, ca va","Yel han ka be, ya soma"
+Maison,Zaka
+Toi aussi,Fo me
+c’est chaud,Ya toulra
+c’est glacé,ya maasra
+c’est froid,Ya woodo
+ca viens du coeur,ya souri goum de
+tuer,kou
+frere,Kiema
+Dormir,Goussi
+lève toi,Yiki
+le marché,raaga
+le cochon,Courcouri
+le poulet,nobila
+l’arbre,Tiiga
+le mouton,Pessogo
+la vache,Naafo
+l’ane,bouanga
+fou,Kienga
+le temps,wakat
+farine,zom
+l huile,kaam
+Igname,Cou
+haricot,Benga
+la pluie,Saaga
+Le blanc,Nassara
+le noir,Nissa blege
+un/deux/trois,Yembre/Yiibo/taabo
+quatre/cinq/six,Naasse/nou/Yoobe
+sept/huit/neuf/dix,Yoopue/Nii/Oue/piga
+10 francs (cfa),Yiibo
+25 cfa,Nou
+50cfa,piga
+75cfa,pilanou
+100cfa,pissi
+200cfa,pissnasse
+250cfa,bidourou
+300cfa,pissyoobe
+400cfa,pissnii
+500cfa,kouabra
+1000cfa,kobissi
+2000cfa,kobissnasse
+5000cfa,toussori
+50000cfa,tousspiga
